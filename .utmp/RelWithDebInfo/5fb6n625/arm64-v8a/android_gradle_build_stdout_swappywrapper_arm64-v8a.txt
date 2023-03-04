@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Mateusz Bylica\CubeJumper\.utmp\RelWithDebInfo\5fb6n625\arm64-v8a'
+ninja: no work to do.
